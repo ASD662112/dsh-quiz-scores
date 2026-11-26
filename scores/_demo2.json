@@ -1,0 +1,60 @@
+{
+    "wrong":  1,
+    "correct":  3,
+    "id":  "_demo2",
+    "acc":  60,
+    "ts":  1732610000000,
+    "used":  125,
+    "name":  "明细演示",
+    "cat":  "ps",
+    "mode":  "exam",
+    "detail":  [
+                   {
+                       "q":  "Photoshop中默认的前景色是？",
+                       "no":  1,
+                       "your":  "黑色",
+                       "ok":  false,
+                       "type":  "single",
+                       "ans":  "白色",
+                       "sub":  true
+                   },
+                   {
+                       "q":  "Photoshop中默认的背景色是？",
+                       "no":  2,
+                       "your":  "白色",
+                       "ok":  true,
+                       "type":  "single",
+                       "ans":  "白色",
+                       "sub":  true
+                   },
+                   {
+                       "q":  "Photoshop是美国Adobe公司推出的软件。（）",
+                       "no":  3,
+                       "your":  "正确",
+                       "ok":  true,
+                       "type":  "judge",
+                       "ans":  "正确",
+                       "sub":  true
+                   },
+                   {
+                       "q":  "下列属于位图格式的有（）。",
+                       "no":  4,
+                       "your":  "A、B",
+                       "ok":  false,
+                       "type":  "multi",
+                       "ans":  "A、B、C",
+                       "sub":  true
+                   },
+                   {
+                       "q":  "简述PSD格式的特点。",
+                       "no":  5,
+                       "your":  "",
+                       "ok":  false,
+                       "type":  "short",
+                       "ans":  "可保存图层通道等信息",
+                       "sub":  false
+                   }
+               ],
+    "unanswered":  1,
+    "total":  5
+}
